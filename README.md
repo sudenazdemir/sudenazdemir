@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sude Naz</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A student department of Computer Engineering at Abdullah Gül University </h3>
 
 - 🌱 I’m currently learning **GO(Lang)**
 
