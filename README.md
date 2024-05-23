@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [forum](https://github.com/sudenazdemir/forum)
 
-- 🌱 I’m currently learning **GO(Lang)**
+- 🌱 I’m currently learning **GO(Lang)**, **Python** and **Docker**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
