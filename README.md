@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sude Naz DEMİR</h1>
 <h3 align="center">A student department of Computer Engineering at Abdullah Gül University and a JXP at Uniworkhub Coding Space</h3>
 
-- 🔭 I’m currently working on [forum](https://github.com/akddssarikaya/forum)
+- 🔭 I’m currently working on [forum](https://github.com/sudenazdemir/forum)
 
 - 🌱 I’m currently learning **GO(Lang)**, **Python** and **Docker**
 
