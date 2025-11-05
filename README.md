@@ -1,4 +1,6 @@
 <h2 align="left">Hi 👋! My name is Sude Naz and I'm a developer and computer engineering student.</h2>
+<p align="left">“I’m currently developing a gamified fitness app as part of my mobile programming course.</p>
+
 
 ###
 
